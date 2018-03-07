@@ -10,3 +10,4 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 }
+THIS IS A TEST FOR GIT
